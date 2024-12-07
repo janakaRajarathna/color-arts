@@ -16,7 +16,7 @@ main {
 
 /* Hero section styles */
 .hero-section {
-    background-image: url('/img/birthday2.jpg');
+    background-image: url('img/birthday2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
